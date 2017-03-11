@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedIOEx.NET", "MedIOEx.NET\MedIOEx.NET.csproj", "{C26E2EC0-D7CB-453A-B6E6-3DB40DD5144D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedIOEx.NET.Sample", "MedIOEx.NET.Sample\MedIOEx.NET.Sample.csproj", "{8552EB4A-9928-48A7-ABE3-6AB4C5CBD107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C26E2EC0-D7CB-453A-B6E6-3DB40DD5144D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26E2EC0-D7CB-453A-B6E6-3DB40DD5144D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26E2EC0-D7CB-453A-B6E6-3DB40DD5144D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26E2EC0-D7CB-453A-B6E6-3DB40DD5144D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8552EB4A-9928-48A7-ABE3-6AB4C5CBD107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8552EB4A-9928-48A7-ABE3-6AB4C5CBD107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8552EB4A-9928-48A7-ABE3-6AB4C5CBD107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8552EB4A-9928-48A7-ABE3-6AB4C5CBD107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
